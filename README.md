@@ -5,7 +5,7 @@ This project contains solutions to problems using the **NumPy library** as part 
 
 ## Getting Started
 The code can be run in any Python environment that supports NumPy. For this project, **Jupyter Notebook** was used through **Anaconda Navigator** to write and execute the solutions. 
-Note: When using np.save("filename.npy", array), the .npy file is automatically saved in the same folder as the Jupyter Notebook file.
+When using np.save("filename.npy", array), the .npy file is automatically saved in the same folder as the Jupyter Notebook file.
 
 ## Problems and Solutions
 
