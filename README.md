@@ -4,7 +4,8 @@
 This project contains solutions to problems using the **NumPy library** as part of **Advanced Programming Assignment 2.** It demonstrates how to identify, apply, and combine different NumPy functions to solve problems. The problems cover essential concepts such as random array generation, normalization, reshaping arrays, and indexing
 
 ## Getting Started
-The code can be run in any Python environment that supports NumPy. For this project, **Jupyter Notebook** was used through **Anaconda Navigator** to write and execute the solutions. Note: When using np.save("filename.npy", array), the .npy file is automatically saved in the same folder as the Jupyter Notebook file.
+The code can be run in any Python environment that supports NumPy. For this project, **Jupyter Notebook** was used through **Anaconda Navigator** to write and execute the solutions. 
+Note: When using np.save("filename.npy", array), the .npy file is automatically saved in the same folder as the Jupyter Notebook file.
 
 ## Problems and Solutions
 
